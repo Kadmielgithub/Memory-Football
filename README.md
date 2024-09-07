@@ -29,35 +29,7 @@ Quer ajudar a melhorar o Memory Football? Mande um pull request! Toda ajuda é b
 **Vamos juntos construir a maior enciclopédia de futebol do mundo!** ⚽
 
 **Contribuidores:**
-* [Seu nome] - Criador do projeto
+* [Kadmiel Inácio] - Criador do projeto
 
-**Licença:**
-[Escolha uma licença, como MIT]
-```
 
-**O que torna esse README.md descontraído:**
 
-* **Linguagem informal:** A linguagem é simples e fácil de entender, como se você estivesse conversando com um amigo.
-* **Emojis:** Os emojis ajudam a deixar o texto mais divertido e visualmente atraente.
-* **Chamada para ação:** Convida o usuário a interagir com a aplicação.
-* **Agradecimento aos colaboradores:** Valoriza o trabalho em equipe.
-* **Humor:** Use um tom leve e divertido para tornar a leitura mais agradável.
-
-**Dicas extras:**
-
-* **Use imagens:** Se você tiver imagens ou gifs, adicione-os ao README para torná-lo mais visualmente interessante.
-* **Crie um guia de contribuição:** Se você quiser que outras pessoas contribuam para o seu projeto, crie um guia detalhado explicando como fazer isso.
-* **Mantenha o README atualizado:** À medida que o seu projeto evolui, atualize o README para refletir as mudanças.
-
-**Lembre-se:** O objetivo do README.md é atrair e informar as pessoas sobre o seu projeto. Seja criativo e divirta-se!
-
-**Gostaria de personalizar ainda mais o seu README.md? Me diga quais são os seus objetivos e eu te ajudo a criar um texto ainda mais impactante!**
-
-**Você pode adicionar seções como:**
-
-* **Instalação:** Se o seu projeto precisar ser instalado, explique como fazer isso.
-* **Funcionalidades:** Descreva em detalhes o que a aplicação faz.
-* **Roadmap:** Apresente os seus planos futuros para o projeto.
-* **FAQ:** Responda às perguntas mais comuns sobre o projeto.
-
-**Qualquer dúvida, é só perguntar!**
